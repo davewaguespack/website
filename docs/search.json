@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Webpage1",
+    "title": "David M. Waguespack",
     "section": "",
-    "text": "David M. Waguespack\nAssociate Professor\nManagement & Organizations Department\nGoogle Scholar"
+    "text": "Associate Professor\nManagement & Organizations Department\nRobert H. Smith School of Business\ndwaguesp@umd.edu\nGoogle Scholar Page"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "David M. Waguespack",
+    "section": "Publications",
+    "text": "Publications"
   }
 ]
