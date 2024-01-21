@@ -8,7 +8,7 @@ website:
 
   comments:
     giscus:
-      repo: jkbirnir/johannabirnir
+      repo: davewaguespack/website
       loading: lazy
       theme: dark 
 
