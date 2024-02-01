@@ -30,6 +30,7 @@ dwaguesp\@umd.edu
   + [Reproduction Materials (zip file)](files/market_intermediaries.zip) for "Strategic Behavior by Market Intermediaries"
 
 * [Cultural Imprinting, Institutions, and the Organization of New Firms](https://pubsonline.informs.org/doi/10.1287/stsc.2018.0056). 2018. (with Birnir and Dunford). Strategy Science. 
+  + [Reproduction Materials (zip file)](files/corp_5300.zip) for "Cultural Imprinting, Institutions, and the Organization of New Firms"
   + [Harvard Business Review: Research: Where a Founder Is from Affects How They Structure Their Company.](https://hbr.org/2019/09/research-where-a-founder-is-from-affects-how-they-structure-their-company)
   
 * [Introducing the AMAR (All Minorities at Risk) Data](https://journals.sagepub.com/doi/full/10.1177/0022002717719974). 2018. (with Birnir, Laitin, Wilkenfeld, Hultquist, and Gurr). Journal of Conflict Resolution.
