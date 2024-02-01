@@ -38,6 +38,7 @@ dwaguesp\@umd.edu
 * [Temporal Issues in Replication: The Stability of Centrality-Based Advantage](https://sociologicalscience.com/articles-v4-5-107/). 2017. (with Shi and Sorenson). Sociological Science.
 
 * [Quality, Subjectivity, and Sustained Superior Performance at the Olympic Games](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.2144). 2016. (with Salomon). Management Science.
+  + [Reproduction Materials (zip file)](files/MS-13-01138.replication.files.zip) for "Quality, Subjectivity, and Sustained Superior Performance at the Olympic Games"
 
 * [The Ratings Game: Asymmetry in Classification](https://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0533?journalCode=orsc). 2011. (with Sorenson). Organization Science.
 
