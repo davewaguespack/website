@@ -20,7 +20,7 @@ dwaguesp\@umd.edu
 * [The New Argonauts: the International Migration of Venture-Backed Companies](https://onlinelibrary.wiley.com/journal/10970266). Forthcoming. (with Shi and Sorenson). Strategic Management Journal.
 
 * [Status and Consensus: Heterogeneity in Audience Evaluations of Female Lead Films](https://onlinelibrary.wiley.com/doi/10.1002/smj.3575). Forthcoming. (with Stroube). Strategic Management Journal.
-  + [Reproduction Materials](https://osf.io/tfj2k/) for "Status and Consensus"
+  + [Reproduction Materials (OSF link)](https://osf.io/tfj2k/) for "Status and Consensus"
 
 * [Fast Success and Slow Failure: the Process Speed of Dispersed Research Teams](https://www.sciencedirect.com/science/article/abs/pii/S0048733321000263). 2021. (with Mors). Research Policy.
   + [Reproduction Materials (zip file)](files/IETF_collaboration.zip) for "Fast Success and Slow Failure"
