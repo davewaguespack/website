@@ -41,6 +41,7 @@ dwaguesp\@umd.edu
   + [Reproduction Materials (zip file)](files/MS-13-01138.replication.files.zip) for "Quality, Subjectivity, and Sustained Superior Performance at the Olympic Games"
 
 * [The Ratings Game: Asymmetry in Classification](https://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0533?journalCode=orsc). 2011. (with Sorenson). Organization Science.
+  + [Reproduction Materials (zip file)](files/ratings.zip) for "The Ratings Game"
 
 * [Ethnic Inclusion and Economic Growth](https://journals.sagepub.com/doi/abs/10.1177/1354068810391149?journalCode=ppqa). 2011. (with Birnir). Party Politics.
 
