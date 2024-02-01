@@ -23,6 +23,7 @@ dwaguesp\@umd.edu
   + [Reproduction Materials](https://osf.io/tfj2k/) for "Status and Consensus"
 
 * [Fast Success and Slow Failure: the Process Speed of Dispersed Research Teams](https://www.sciencedirect.com/science/article/abs/pii/S0048733321000263). 2021. (with Mors). Research Policy.
+  + [Reproduction Materials (zip file)](files/IETF_collaboration.zip) for "Fast Success and Slow Failure"
   + [Harvard Business Review: Research: Dispersed Teams Succeed Fast, Fail Slow.](https://hbr.org/2021/05/research-dispersed-teams-succeed-fast-fail-slow)
 
 * [Strategic Behavior by Market Intermediaries](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3220). 2020. (with Olson). Strategic Management Journal.
