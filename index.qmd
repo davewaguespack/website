@@ -46,6 +46,7 @@ dwaguesp\@umd.edu
 * [Ethnic Inclusion and Economic Growth](https://journals.sagepub.com/doi/abs/10.1177/1354068810391149?journalCode=ppqa). 2011. (with Birnir). Party Politics.
 
 * [Status, Quality and Attention: What`s in a (Missing) Name?](https://pubsonline.informs.org/doi/10.1287/mnsc.1100.1270). 2011. (with Simcoe). Management Science.
+  + [Reproduction Materials (zip file)](files/etal-replication.zip) for "Status, Quality and Attention"
 
 * [Scanning the Commons? Evidence on the Benefits to Startups Participating in Open Standards Development](https://pubsonline.informs.org/doi/10.1287/mnsc.1080.0944). 2009. (with Fleming). Management Science.
 
