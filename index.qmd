@@ -1,62 +1,68 @@
-
 ---
 title: "David M. Waguespack"
 ---
 
-Associate Professor \
-Management & Organizations Department \
-Robert H. Smith School of Business \
+Associate Professor\
+Management & Organizations Department\
+Robert H. Smith School of Business\
 dwaguesp\@umd.edu
 
-[University of Maryland Faculty Page](https://www.rhsmith.umd.edu/directory/david-m-waguespack) \
-[CV](files/WaguespackCV.pdf) \
+[University of Maryland Faculty Page](https://www.rhsmith.umd.edu/directory/david-m-waguespack)\
+[CV](files/WaguespackCV.pdf)\
 [Google Scholar Page](https://scholar.google.com/citations?user=6bWxEhcAAAAJ&hl=en)
 
 ### Publications
 
-* [The New Argonauts: the International Migration of Venture-Backed Companies](https://onlinelibrary.wiley.com/doi/10.1002/smj.3591). Forthcoming. (with Shi and Sorenson). Strategic Management Journal.
-  + [Reproduction Code (zip file)](files/smj.3591.code.zip) for "The New Argonauts"
+-   [The New Argonauts: the International Migration of Venture-Backed Companies](https://onlinelibrary.wiley.com/doi/10.1002/smj.3591). 2024. (with Shi and Sorenson). Strategic Management Journal.
 
-* [Status and Consensus: Heterogeneity in Audience Evaluations of Female Lead Films](https://onlinelibrary.wiley.com/doi/10.1002/smj.3575). Forthcoming. (with Stroube). Strategic Management Journal.
-  + [Reproduction Materials (OSF link)](https://osf.io/tfj2k/) for "Status and Consensus"
+    -   [Reproduction Code (zip file)](files/smj.3591.code.zip) for "The New Argonauts"
 
-* [Fast Success and Slow Failure: the Process Speed of Dispersed Research Teams](https://www.sciencedirect.com/science/article/abs/pii/S0048733321000263). 2021. (with Mors). Research Policy.
-  + [Reproduction Materials (zip file)](files/IETF_collaboration.zip) for "Fast Success and Slow Failure"
-  + [Harvard Business Review: Research: Dispersed Teams Succeed Fast, Fail Slow.](https://hbr.org/2021/05/research-dispersed-teams-succeed-fast-fail-slow)
+-   [Status and Consensus: Heterogeneity in Audience Evaluations of Female Lead Films](https://onlinelibrary.wiley.com/doi/10.1002/smj.3575). 2024. (with Stroube). Strategic Management Journal.
 
-* [Strategic Behavior by Market Intermediaries](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3220). 2020. (with Olson). Strategic Management Journal.
-  + [Reproduction Materials (zip file)](files/market_intermediaries.zip) for "Strategic Behavior by Market Intermediaries"
+    -   [Reproduction Materials (OSF link)](https://osf.io/tfj2k/) for "Status and Consensus"
 
-* [Cultural Imprinting, Institutions, and the Organization of New Firms](https://pubsonline.informs.org/doi/10.1287/stsc.2018.0056). 2018. (with Birnir and Dunford). Strategy Science. 
-  + [Reproduction Materials (zip file)](files/corp_5300.zip) for "Cultural Imprinting, Institutions, and the Organization of New Firms"
-  + [Harvard Business Review: Research: Where a Founder Is from Affects How They Structure Their Company.](https://hbr.org/2019/09/research-where-a-founder-is-from-affects-how-they-structure-their-company)
-  
-* [Introducing the AMAR (All Minorities at Risk) Data](https://journals.sagepub.com/doi/full/10.1177/0022002717719974). 2018. (with Birnir, Laitin, Wilkenfeld, Hultquist, and Gurr). Journal of Conflict Resolution.
+-   [Fast Success and Slow Failure: the Process Speed of Dispersed Research Teams](https://www.sciencedirect.com/science/article/abs/pii/S0048733321000263). 2021. (with Mors). Research Policy.
 
-* [Temporal Issues in Replication: The Stability of Centrality-Based Advantage](https://sociologicalscience.com/articles-v4-5-107/). 2017. (with Shi and Sorenson). Sociological Science.
+    -   [Reproduction Materials (zip file)](files/IETF_collaboration.zip) for "Fast Success and Slow Failure"
+    -   [Harvard Business Review: Research: Dispersed Teams Succeed Fast, Fail Slow.](https://hbr.org/2021/05/research-dispersed-teams-succeed-fast-fail-slow)
 
-* [Quality, Subjectivity, and Sustained Superior Performance at the Olympic Games](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.2144). 2016. (with Salomon). Management Science.
-  + [Reproduction Materials (zip file)](files/MS-13-01138.replication.files.zip) for "Quality, Subjectivity, and Sustained Superior Performance at the Olympic Games"
+-   [Strategic Behavior by Market Intermediaries](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3220). 2020. (with Olson). Strategic Management Journal.
 
-* [The Ratings Game: Asymmetry in Classification](https://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0533?journalCode=orsc). 2011. (with Sorenson). Organization Science.
-  + [Reproduction Materials (zip file)](files/ratings.zip) for "The Ratings Game"
+    -   [Reproduction Materials (zip file)](files/market_intermediaries.zip) for "Strategic Behavior by Market Intermediaries"
 
-* [Ethnic Inclusion and Economic Growth](https://journals.sagepub.com/doi/abs/10.1177/1354068810391149?journalCode=ppqa). 2011. (with Birnir). Party Politics.
+-   [Cultural Imprinting, Institutions, and the Organization of New Firms](https://pubsonline.informs.org/doi/10.1287/stsc.2018.0056). 2018. (with Birnir and Dunford). Strategy Science.
 
-* [Status, Quality and Attention: What`s in a (Missing) Name?](https://pubsonline.informs.org/doi/10.1287/mnsc.1100.1270). 2011. (with Simcoe). Management Science.
-  + [Reproduction Materials (zip file)](files/etal-replication.zip) for "Status, Quality and Attention"
+    -   [Reproduction Materials (zip file)](files/corp_5300.zip) for "Cultural Imprinting, Institutions, and the Organization of New Firms"
+    -   [Harvard Business Review: Research: Where a Founder Is from Affects How They Structure Their Company.](https://hbr.org/2019/09/research-where-a-founder-is-from-affects-how-they-structure-their-company)
 
-* [Scanning the Commons? Evidence on the Benefits to Startups Participating in Open Standards Development](https://pubsonline.informs.org/doi/10.1287/mnsc.1080.0944). 2009. (with Fleming). Management Science.
+-   [Introducing the AMAR (All Minorities at Risk) Data](https://journals.sagepub.com/doi/full/10.1177/0022002717719974). 2018. (with Birnir, Laitin, Wilkenfeld, Hultquist, and Gurr). Journal of Conflict Resolution.
 
-* [Brokerage, Boundary Spanning, and Leadership in Open Innovation Communities](https://pubsonline.informs.org/doi/10.1287/orsc.1060.0242). 2007. (with Fleming). Organization Science.
+-   [Temporal Issues in Replication: The Stability of Centrality-Based Advantage](https://sociologicalscience.com/articles-v4-5-107/). 2017. (with Shi and Sorenson). Sociological Science.
 
-* [Social Structure And Exchange: Self-Confirming Dynamics in Hollywood](https://journals.sagepub.com/doi/10.2189/asqu.51.4.560). 2006. (with Sorenson). Administrative Science Quarterly.
+-   [Quality, Subjectivity, and Sustained Superior Performance at the Olympic Games](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2014.2144). 2016. (with Salomon). Management Science.
 
-* [Reconciling Garbage Cans and Rational Actors: Explaining
-Organizational Decisions about Environmental Hazard Management](https://www.sciencedirect.com/science/article/abs/pii/S0049089X04000511). 2006. Social Science Research.
+    -   [Reproduction Materials (zip file)](files/MS-13-01138.replication.files.zip) for "Quality, Subjectivity, and Sustained Superior Performance at the Olympic Games"
 
-* [Technological Development and Political Stability: Patenting in Latin America and the Caribbean](https://www.sciencedirect.com/science/article/abs/pii/S0048733305001733). 2005. (with Birnir and Schroeder). Research Policy.
+-   [The Ratings Game: Asymmetry in Classification](https://pubsonline.informs.org/doi/abs/10.1287/orsc.1100.0533?journalCode=orsc). 2011. (with Sorenson). Organization Science.
 
-* [Foreignness and the Diffusion of Ideas](https://www.sciencedirect.com/science/article/abs/pii/S0923474804000712). 2005. (with Birnir). Journal of Engineering and Technology Management.
+    -   [Reproduction Materials (zip file)](files/ratings.zip) for "The Ratings Game"
 
-* [Support for Term Limits and Voting Behavior in Congressional Elections](https://www.sciencedirect.com/science/article/abs/pii/S0362331997900215). 1997. (with Southwell). The Social Science Journal.
+-   [Ethnic Inclusion and Economic Growth](https://journals.sagepub.com/doi/abs/10.1177/1354068810391149?journalCode=ppqa). 2011. (with Birnir). Party Politics.
+
+-   [Status, Quality and Attention: What\`s in a (Missing) Name?](https://pubsonline.informs.org/doi/10.1287/mnsc.1100.1270). 2011. (with Simcoe). Management Science.
+
+    -   [Reproduction Materials (zip file)](files/etal-replication.zip) for "Status, Quality and Attention"
+
+-   [Scanning the Commons? Evidence on the Benefits to Startups Participating in Open Standards Development](https://pubsonline.informs.org/doi/10.1287/mnsc.1080.0944). 2009. (with Fleming). Management Science.
+
+-   [Brokerage, Boundary Spanning, and Leadership in Open Innovation Communities](https://pubsonline.informs.org/doi/10.1287/orsc.1060.0242). 2007. (with Fleming). Organization Science.
+
+-   [Social Structure And Exchange: Self-Confirming Dynamics in Hollywood](https://journals.sagepub.com/doi/10.2189/asqu.51.4.560). 2006. (with Sorenson). Administrative Science Quarterly.
+
+-   [Reconciling Garbage Cans and Rational Actors: Explaining Organizational Decisions about Environmental Hazard Management](https://www.sciencedirect.com/science/article/abs/pii/S0049089X04000511). 2006. Social Science Research.
+
+-   [Technological Development and Political Stability: Patenting in Latin America and the Caribbean](https://www.sciencedirect.com/science/article/abs/pii/S0048733305001733). 2005. (with Birnir and Schroeder). Research Policy.
+
+-   [Foreignness and the Diffusion of Ideas](https://www.sciencedirect.com/science/article/abs/pii/S0923474804000712). 2005. (with Birnir). Journal of Engineering and Technology Management.
+
+-   [Support for Term Limits and Voting Behavior in Congressional Elections](https://www.sciencedirect.com/science/article/abs/pii/S0362331997900215). 1997. (with Southwell). The Social Science Journal.
