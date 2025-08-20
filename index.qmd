@@ -13,6 +13,10 @@ dwaguesp\@umd.edu
 
 ### Publications
 
+-   [Does earnings management matter for strategy research?](https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.3742). 2025. (with Gibbs and Simcoe). Strategic Management Journal.
+
+    -   [Reproduction Materials (OSF link)](https://osf.io/6pg43/) for "Does earnings management matter..."
+
 -   [The New Argonauts: the International Migration of Venture-Backed Companies](https://onlinelibrary.wiley.com/doi/10.1002/smj.3591). 2024. (with Shi and Sorenson). Strategic Management Journal.
 
     -   [Reproduction Code (zip file)](files/smj.3591.code.zip) for "The New Argonauts"
