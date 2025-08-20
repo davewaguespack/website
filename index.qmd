@@ -19,7 +19,7 @@ dwaguesp\@umd.edu
 
 -   [Chapter 18: Approaches to Causal Identification in Studies of Entrepreneurship and Innovation](https://www.degruyterbrill.com/document/doi/10.1515/9783111085722-018/html). 2025. (with Valentine). De Gruyter Handbook of Sociology of Innovation and Entrepreneurship, O. Sorenson and P. H. Thornton, editors.
 
-    -   [Reproduction Materials: simulation code included in manuscript."
+    -   Reproduction Materials: simulation code included in manuscript."
     
 -   [The New Argonauts: the International Migration of Venture-Backed Companies](https://onlinelibrary.wiley.com/doi/10.1002/smj.3591). 2024. (with Shi and Sorenson). Strategic Management Journal.
 
